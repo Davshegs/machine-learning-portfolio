@@ -1,0 +1,3 @@
+[submodule "Credit-Status-Detection-Model"]
+	path = Credit-Status-Detection-Model
+	url = https://github.com/Davshegs/Credit-Status-Detection-Model.git
